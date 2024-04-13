@@ -1,10 +1,4 @@
-# `GOJO-MD-V2`
-<br>
-<br>
-
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=BBFFFB&center=true&width=900&height=100&lines=Its%20GOJO-MD-V2;%20Multi-Device%20WhatsApp%20Bot;%20Developed%20By%20DAVID%20SULULOLA)
-<p align="center">
+```GOJO-MD```
   
 [`ℹ️IN CASE OF HELP CONCERNING DEPLOYMENT`](https://wa.me/+2348026018074)
 
