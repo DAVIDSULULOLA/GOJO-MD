@@ -8,7 +8,7 @@
 [`ℹ️IN CASE OF HELP CONCERNING DEPLOYMENT`](https://wa.me/+2348026018074)
 
 ## 🌟 `Bot Intro and Features`
-[![XLICON](https://i.imgur.com/bWfDDEU.jpg)](https://wa.me/+2348026018074)
+[![XLICON](https://i.imgur.com/alworZ7.jpg)](https://wa.me/+2348026018074)
 
 ### ℹ️ **About GOJO-MD**
 GOJO-MD is a versatile Multi-Device WhatsApp bot developed by [S](https://github.com/sa). It offers a wide range of features, making it an advanced and user-friendly bot for various purposes.
