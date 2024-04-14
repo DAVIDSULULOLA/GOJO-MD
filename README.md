@@ -59,7 +59,26 @@ Thanks to all contributors! 🚀
 <div><button id="boton" type="button">Base  - By EXCEL</button></div>
 <a href="https://github.com/Xcelsama"><img src="https://github.com/Xcelsama.png" width="150" height="150" alt="Xcelsama"/></a>
 
-## `OWNER` 
+## `OWNER`
+*******************************************
+🇴 🇼 🇳 🇪 🇷  🇮 🇳 🇫  🇴 
+ 
+[![EXCEL](https://i.imgur.com/4Z8BDHx.png)](https://wa.me/2347045035241)
+
+
+<img src="https://i.imgur.com/FX2S9eI.jpg" alt="Image"> 
+
+
+<h1 align="center"> ⭐STAR-MD ⭐
+</p></p>
+
+
+
+
+
+
+
+
 
 ## 🔒 `Reminder`
 Misusing the bot may result in a ban from WhatsApp. Use at your own risk.
