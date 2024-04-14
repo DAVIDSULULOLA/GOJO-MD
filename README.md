@@ -38,7 +38,7 @@ Thanks to all contributors! 🚀
 
 2. Get Session ID (SERVER 2)
     <br>
-<a href='https://replit.com/@mznking04/XLICON-PAIR-CODE' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id_2-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://webqrscan2-504bf6ac8e49.herokuapp.com' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id_2-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 
 ## 🚀 `Deployments`
@@ -50,7 +50,7 @@ Thanks to all contributors! 🚀
 
 2. Now Deploy
     <br>
-<a href='https://xlicon-v2-deploy.vercel.app/' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+<a href='https://gojo-md-deploy.vercel.app/' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 
 
 ## `CREDITS` 
