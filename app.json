@@ -1,10 +1,10 @@
 {
-  "name": "whatsapp-bot (X-BOT)",
+  "name": "whatsapp-bot (G-BOT)",
   "description": " Whatsapp bot.",
   "keywords": [
     "whatsapp bot"
   ],
-  "repository": "https://github.com/salmanytofficial/XLICON-V2-MD/main",
+  "repository": "https://github.com/DAVIDSULULOLA/GOJO-MD/main",
   "stack": "container",
   "env": {
     "DATABASE_URL": {
