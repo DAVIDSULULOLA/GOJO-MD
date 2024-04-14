@@ -1,11 +1,11 @@
-[### GOJO-MD ###(https://wa.me/+2348026018074)]
+### GOJO-MD ###
 
 
 
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Protest+Strike&size=25&duration=600&pause=600&color=BBFFFB&random=false&width=435&lines=+Hi++%E1%95%95(+%D5%9E+%E1%97%9C+%D5%9E+)%E1%95%97+I'm+GOJO-MD................+;A+Multi-fuctional+WhatsApp+Bot;+++++BY+DAVID+SULULOLA" alt="Typing SVG" /></a>  
   
-[`ℹ️IN CASE OF HELP CONCERNING DEPLOYMENT`]()
+[`ℹ️IN CASE OF HELP CONCERNING DEPLOYMENT`](http//:wa.me//2348026018074)
 
 ## 🌟 `Bot Intro and Features`
 [![XLICON](https://i.imgur.com/bWfDDEU.jpg)](https://youtu.be/WcA7GZuaN0A)
