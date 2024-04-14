@@ -28,13 +28,13 @@ Thanks to all contributors! 🚀
 ## 🛠️ `Installation Methods`
 1. Fork the repo
     <br>
-<a href='https://github.com/salmanytofficial/XLICON-V2-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://github.com/DAVIDSULULOLA/GOJO-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 
 
 2. Get Session ID (SERVER 1)
     <br>
-<a href='https://replit.com/@S4SalmanYt/XLICON-V2-PAIRING' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='(https://webqrscan-c05566efd792.herokuapp.com/)' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 2. Get Session ID (SERVER 2)
     <br>
