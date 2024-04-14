@@ -11,15 +11,12 @@
 [![XLICON](https://i.imgur.com/alworZ7.jpg)](https://wa.me/+2348026018074)
 
 ### ℹ️ **About GOJO-MD**
-GOJO-MD is a versatile Multi-Device WhatsApp bot developed by [S](https://github.com/sa). It offers a wide range of features, making it an advanced and user-friendly bot for various purposes.
+GOJO-MD is a versatile Multi-Device WhatsApp bot developed by [S](https://github.com/DAVIDSULULOLA). It offers a wide range of features, making it an advanced and user-friendly bot for various purposes.
 
-<p align="center"><img src="https://profile-counter.glitch.me/{Xcelsama}/count.svg" alt="Xcelsama :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{DAVID}/count.svg" alt="DAVID :: Visitor's Count" /></p>
 
 
-####  
-*XLICON-V2* - A Advanced Multi Device whatsapp bot Based on *GURU-BOT*
 
-***
 
 ## ⭐ `Star This Repo`
 If you find GOJO-MD helpful, consider giving it a star ⭐ to show your appreciation.
