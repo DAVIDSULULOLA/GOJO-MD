@@ -54,10 +54,10 @@ Thanks to all contributors! 🚀
 
 
 ## `CREDITS` 
-<div><button id="boton" type="button">Baileys - By XCELSAMA & adiwajshing</button></div>
-<a href="https://github.com/Xcelsama/STAR-MD"><img src="https://github.com/Xcelsama.png" width="150" height="150" alt="adiwajshing"/></a>
+<div><button id="boton" type="button">Baileys - By XCELSAMA </button></div>
+<a href="https://github.com/Xcelsama/STAR-MD"><img src="https://github.com/Xcelsama.png" width="150" height="150" alt="Xcelsama"/></a>
 <div><button id="boton" type="button">Base  - By EXCEL</button></div>
-<a href="https://github.com/Guru322"><img src="https://github.com/Guru322.png" width="150" height="150" alt="Guru"/></a>
+<a href="https://github.com/Xcelsama"><img src="https://github.com/Xcelsama.png" width="150" height="150" alt="Xcelsama"/></a>
 
 ## `OWNER` 
 
