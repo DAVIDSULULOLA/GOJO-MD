@@ -1,4 +1,4 @@
 /**
- * @XLICON_V2
- * https://github.com/salmanytofficial/XLICON-V2-MD
+ * @GOJO-MD
+ * https://github.com/DAVIDSULULOLA/GOJO-MD
  */
