@@ -59,7 +59,7 @@ global.menuvid = 'https://i.imgur.com/mU4M0PQ.mp4'
 global.igfg = '▢✓ Follow My channel\nhttps://whatsapp.com/channel/0029VaZwkdR545uzEG3B8E3I\n' 
 global.dygp = 'https://chat.whatsapp.com/GXwY9IUYg9l2Fd7zc3CY8p'
 global.fgsc = 'https://github.com/DAVIDSULULOLA/GOJO-MD' 
-global.fglog = 'GOJO.jpg' 
+global.fglog = 'XCLION.jpg' 
 global.thumb = fs.readFileSync('./GOJO.jpg')
 
 
