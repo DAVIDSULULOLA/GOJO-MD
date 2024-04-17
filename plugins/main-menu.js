@@ -45,7 +45,7 @@ import {
 ┌┤     
 ┃
 ┃ *_Name_*: %name
-┃ *_Gold_*: %credit
+┃ *_Gold_*: %999credit
 ┃ *_Role_*: GOJO-MD
 ┃ *_Level_*: %level [ %xp4levelup Xp For Levelup]
 ┃ *_Xp_*: %exp / %maxexp
@@ -67,7 +67,7 @@ import {
  }) => {
   await conn.sendMessage(m.chat, {
    react: {
- text: "⏳",
+ text: "😏",
  key: m.key,
    }
   })
