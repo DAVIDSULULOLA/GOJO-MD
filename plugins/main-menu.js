@@ -15,17 +15,6 @@ import {
  
  const defaultMenu = {
   before: `
-  「 ${botname} 🎁MD 」\n
-  *%ucpn*
-⍟────────────────⍟
-*REMEMBER THIS BOT IS FOR*
-*EDUCATIONAL PERPOSES*
-⍟────────────────⍟
-*©DAVID SULULOLA*
-⍟────────────────⍟
-*_Konnichiwa! Its GOJO-MD A_* 
-*_Multi-Device Whatsapp BOT_*
-*_Recoded By DAVIDEALS And EXCEL_*
 ⍟────────────────⍟
                                     
  █▀▀ █▀█ ░█ █▀█ ▄▄
@@ -35,7 +24,7 @@ import {
 █░▀░█ █▄▀
  
 ╭─────────────────⦿
-┃    🔰〘 𝙄𝙉𝙁𝙊 〙🔰
+┃    🤖BOT INFO🤖
 ╰┬────────────────⦿
 ┌┤
 ┃
@@ -51,7 +40,7 @@ import {
 ┃
 ╰──────────────────⦿
 ╭──────────────────⦿
-┃    🔰〘 𝙐𝙎𝙀𝙍 〙🔰
+┃      👤𝙐𝙎𝙀𝙍👤
 ╰┬─────────────────⦿
 ┌┤     
 ┃
@@ -63,13 +52,6 @@ import {
 ┃ *_Total Xp_*: %totalexp
 ┃
 ╰──────────────────⦿
-╭──────────────────⦿
-┃   🔰〘 𝑰𝑵𝑭𝑶 𝑪𝑴𝑫 〙🔰
-╰┬─────────────────⦿
-┌┤ 
-┃ *_%totalfeatures_* Commands
-╰──────────────────⦿
-
 
  `.trimStart(),
  header: "┌─⦿『 *_%category_* 』⦿",
