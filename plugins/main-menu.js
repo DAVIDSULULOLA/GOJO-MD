@@ -44,7 +44,7 @@ import {
 ╰┬─────────────────⦿
 ┌┤     
 ┃
-┃ *_Name_*: %name
+┃ *_Name_*: %taguser
 ┃ *_Gold_*: %credit
 ┃ *_Role_*: GOJO-MD
 ┃ *_Level_*: %level [ %xp4levelup Xp For Levelup]
