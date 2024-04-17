@@ -35,7 +35,7 @@ say("GOJO-MD By DAVID SULULOLA._.", {
 });
 
 const app = express();
-const port = process.env.PORT || 0x1f90;
+const port = process.env.PORT || 5000;
 const basePath = new URL(import.meta.url).pathname;
 const htmlDir = path.join(path.dirname(basePath), 'Assets');
 
