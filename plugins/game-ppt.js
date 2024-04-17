@@ -4,7 +4,7 @@ let handler = async (m, { conn, text, usedPrefix, command }) => {
     let poin = 300
     let reseqv = `✳️ Select rock/paper/scissors\n\nExample : *${usedPrefix + command}* paper\n`
     if (!text) throw reseqv
-    var astro = Math.random()
+    var astro = Math.rock()
 
     if (astro < 0.34) {
         astro = 'rock'
