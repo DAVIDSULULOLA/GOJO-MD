@@ -1,10 +1,10 @@
 //import db from '../lib/database.js'
 
 let handler = async (m, { conn, text, usedPrefix, command }) => {
-    let poin = 300
+    let poin = 30
     let reseqv = `✳️ Select rock/paper/scissors\n\nExample : *${usedPrefix + command}* paper\n`
     if (!text) throw reseqv
-    var astro = Math.rock()
+    var astro = Math.random()
 
     if (astro < 0.34) {
         astro = 'rock'
@@ -16,31 +16,31 @@ let handler = async (m, { conn, text, usedPrefix, command }) => {
 
 
     if (text == astro) {
-      global.db.data.users[m.sender].exp += 1000000
-        m.reply(`▢ *A tie*\n\n‣ You : ${text}\n‣ Guru : ${astro}\n\n🎁 Points (±)10000 XP`)
+      global.db.data.users[m.sender].exp += 100
+        m.reply(`▢ *A tie*\n\n‣ You : ${text}\n‣ Gojo : ${astro}\n\n🎁 Points (±)10000 XP`)
     } else if (text == 'rock') {
         if (astro == 'scissors') {
-            global.db.data.users[m.sender].exp += 3000000
-            m.reply(`▢ *Won* 🎊\n\n‣ You : ${text}\n‣ GURU : ${astro}\n\n🎁 Points *+${poin} XP*`)
+            global.db.data.users[m.sender].exp += 30
+            m.reply(`▢ *Won* 🎊\n\n‣ You : ${text}\n‣ GOJO : ${astro}\n\n🎁 Points *+${poin} XP*`)
         } else {
-          global.db.data.users[m.sender].exp -= 3000000
-            m.reply(`▢ *lost*\n\n‣ You : ${text}\n‣ GURU : ${astro}\n\n Points *-${poin} XP*`)
+          global.db.data.users[m.sender].exp -= 30
+            m.reply(`▢ *lost*\n\n‣ You : ${text}\n‣ GOJO : ${astro}\n\n Points *-${poin} XP*`)
         }
     } else if (text == 'scissors') {
         if (astro == 'paper') {
-            global.db.data.users[m.sender].exp += 30000
-            m.reply(`▢ *won* 🎊\n\n‣ You : ${text}\n‣ GURU : ${astro}\n\n🎁 Points *+${poin} XP*`)
+            global.db.data.users[m.sender].exp += 30
+            m.reply(`▢ *won* 🎊\n\n‣ You : ${text}\n‣ GOJO : ${astro}\n\n🎁 Points *+${poin} XP*`)
         } else {
-          global.db.data.users[m.sender].exp -= 300000
-            m.reply(`▢ *lost*\n\n‣ You : ${text}\n‣ GURU : ${astro}\n\nPoints *-${poin} XP*`)
+          global.db.data.users[m.sender].exp -= 30
+            m.reply(`▢ *lost*\n\n‣ You : ${text}\n‣ GOJO : ${astro}\n\nPoints *-${poin} XP*`)
         }
     } else if (text == 'paper') {
         if (astro == 'rock') {
-            global.db.data.users[m.sender].exp += 300
-            m.reply(`▢ *won* 🎊\n\n‣ You : ${text}\n‣ GURU : ${astro}\n\n🎁 Points *+${poin} XP*`)
+            global.db.data.users[m.sender].exp += 30
+            m.reply(`▢ *won* 🎊\n\n‣ You : ${text}\n‣ GOJO : ${astro}\n\n🎁 Points *+${poin} XP*`)
         } else {
-          global.db.data.users[m.sender].exp -= 300
-            m.reply(`▢ *You lost*\n\n‣ You : ${text}\n‣ GURU : ${astro}\n\nPoints *-${poin} XP*`)
+          global.db.data.users[m.sender].exp -= 30
+            m.reply(`▢ *You lost*\n\n‣ You : ${text}\n‣ GOJO : ${astro}\n\nPoints *-${poin} XP*`)
         }
     } else {
         throw reseqv
