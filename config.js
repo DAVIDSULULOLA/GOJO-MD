@@ -60,7 +60,7 @@ global.igfg = '▢✓ Follow My channel\nhttps://whatsapp.com/channel/0029VaZwkd
 global.dygp = 'https://chat.whatsapp.com/GXwY9IUYg9l2Fd7zc3CY8p'
 global.fgsc = 'https://github.com/DAVIDSULULOLA/GOJO-MD' 
 global.fglog = 'XCLION.jpg' 
-global.thumb = fs.readFileSync('./GOJO.jpg')
+global.thumb = fs.readFileSync('./XCLION.jpg')
 
 
 global.wait = '*🕣 _GOJO IS LOADIND..._*\n*▰▰▰▱▱▱▱▱⭐*'
