@@ -137,7 +137,7 @@ NOW Deploy👇
 
 ## `CREDITS` 
 <div><button id="boton" type="button">Baileys - By XCELSAMA </button></div>
-<a href="https://github.com/Xcelsama/STAR-MD"><img src="https://github.com/Xcelsama.png" width="150" height="150" alt="Xcelsama"/></a>
+<a href="https://github.com/Xcelsama"><img src="https://github.com/Xcelsama.png" width="150" height="150" alt="Xcelsama"/></a>
 
 
 
